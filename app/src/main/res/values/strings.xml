@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="app_title">Тренировки по фитнесу</string>
+    <string name="slogan">В здором теле здоровый дух</string>
+    <string name="goToTraining">Переход к тренировке</string>
+    <string name="exit">Exit</string>
+    <string name="exercisesList">Список упражнений</string>
+    <string name="training">Тренировка</string>
+    <string name="start_training">Начало тренировки</string>
+    <string name="exercise_title">Упражнение</string>
+    <string name="next">Продолжить дальше</string>
+</resources>
